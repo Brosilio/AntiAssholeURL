@@ -1,0 +1,2 @@
+# AntiAssholeURL
+fuck ebay
