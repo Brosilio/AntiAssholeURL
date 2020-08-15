@@ -1,5 +1,5 @@
 # AntiAssholeURL
-I'm fucking fed up with the 19 gigabytes of tracking bullshit that dumb fuck idiot webdevs put in their dumb ass bullshit websites. I go to copy the fucking URL of some eBay page or some bullshit, and when I paste it into Discord or whatever, the url fills up like 6 pages of text or is too long to send in a message. I've coined the term "asshurl" (combination of asshole and URL) to describe these "asshole URLs," because these URLs are something you'd hurl out of your asshole.
+I'm fucking fed up with the 19 gigabytes of tracking bullshit that dumb fuck idiot webdevs put in their dumb ass bullshit websites. I go to copy the fucking URL of some eBay page or some bullshit, and when I paste it into Discord or whatever, the url fills up like 6 pages of text or is too long to send in a message. I've coined the term "asshurl" (combination of asshole and URL) to describe these "asshole URLs," because these URLs are something you'd hurl out of your asshole. seriously. it's like the website just upper-deckered your address bar.
 
 Real-world example of an asshurl:
 
