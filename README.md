@@ -5,7 +5,13 @@ Real-world example of an asshurl:
 
 ![asshurl example](https://i.imgur.com/K2rB4oR.png)
 
-the url in that example is about 1.1kb. holy. fuck. that's not even the worst I've seen, but it's the worst recent example I had.
+the url in that example is about 1.1kb. holy. fuck.
+
+Another example:
+
+![asshurl example 2](https://i.imgur.com/DCWnibY.png)
+
+The url takes up the ENTIRE fucking screen. how is that fucking acceptable???
 
 on top of that, the retard webdevs make it literally fucking impossible to find the "Share this page" button. like, what the fuck. it's faster to manually trim the url by deleting the tracking bullshit than it is to scour the page for the share button and then menu-dive through the 600 billion apps it can copy to. Who the FUCK fucking *emails* URLs anymore? why the fuck is that even an option? FUCK!
 
